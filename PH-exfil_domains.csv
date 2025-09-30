@@ -37,7 +37,8 @@ iexplore.exe,blob.core.windows.net
 firefox.exe,blob.core.windows.net
 brave.exe,blob.core.windows.net
 msedgewebview2.exe,blob.core.windows.net
-onderive.exe,blob.core.windows.net
+onedrive.sync.service.exe,blob.core.windows.net
+onedrive.exe,blob.core.windows.net
 discord.exe,discord
 msedge.exe,discord
 safari.exe,discord
