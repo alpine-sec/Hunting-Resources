@@ -29,21 +29,6 @@ IntelConnectivityNetworkService.exe,telegram
 ZSATunnel.exe,telegram
 ExpressConnectNetworkService.exe,telegram
 creative cloud ui helper.exe,telegram
-chrome.exe,blob.core.windows.net
-msedge.exe,blob.core.windows.net
-safari.exe,blob.core.windows.net
-opera.exe,blob.core.windows.net
-iexplore.exe,blob.core.windows.net
-firefox.exe,blob.core.windows.net
-brave.exe,blob.core.windows.net
-msedgewebview2.exe,blob.core.windows.net
-onedrive.sync.service.exe,blob.core.windows.net
-onedrive.exe,blob.core.windows.net
-senseir.exe,blob.core.windows.net
-svchost.exe,blob.core.windows.net
-ccmsetup.scm00003.26.exe,blob.core.windows.net
-outlook.exe,blob.core.windows.net
-explorer.exe,blob.core.windows.net
 discord.exe,discord
 msedge.exe,discord
 safari.exe,discord
