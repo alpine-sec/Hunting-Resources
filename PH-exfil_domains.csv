@@ -27,6 +27,12 @@ ZSATunnel.exe,telegram
 ExpressConnectNetworkService.exe,telegram
 creative cloud ui helper.exe,telegram
 chrome.exe,blob.core.windows.net
+msedge.exe,blob.core.windows.net
+safari.exe,blob.core.windows.net
+opera.exe,blob.core.windows.net
+iexplore.exe,blob.core.windows.net
+firefox.exe,blob.core.windows.net
+brave.exe,blob.core.windows.net
 discord.exe,discord
 msedge.exe,discord
 safari.exe,discord
