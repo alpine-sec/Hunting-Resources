@@ -6,6 +6,7 @@ opera.exe,api.gofile.io
 iexplore.exe,api.gofile.io
 firefox.exe,api.gofile.io
 brave.exe,api.gofile.io
+msedgewebview2.exe,api.gofile.io
 chrome.exe,zulipchat.com
 msedge.exe,zulipchat.com
 safari.exe,zulipchat.com
@@ -13,7 +14,9 @@ opera.exe,zulipchat.com
 iexplore.exe,zulipchat.com
 firefox.exe,zulipchat.com
 brave.exe,zulipchat.com
-teams.exe,telegram
+msedgewebview2.exe,zulipchat.com
+msedgewebview2.exe,telegram
+telegram.exe,telegram
 msedge.exe,telegram
 safari.exe,telegram
 opera.exe,telegram
@@ -33,6 +36,7 @@ opera.exe,blob.core.windows.net
 iexplore.exe,blob.core.windows.net
 firefox.exe,blob.core.windows.net
 brave.exe,blob.core.windows.net
+msedgewebview2.exe,blob.core.windows.net
 discord.exe,discord
 msedge.exe,discord
 safari.exe,discord
@@ -41,6 +45,7 @@ chrome.exe,discord
 iexplore.exe,discord
 firefox.exe,discord
 brave.exe,discord
+msedgewebview2.exe,discord
 msedge.exe,r2.dev
 safari.exe,r2.dev
 opera.exe,r2.dev
@@ -49,3 +54,4 @@ iexplore.exe,r2.dev
 firefox.exe,r2.dev
 brave.exe,r2.dev
 ZSATunnel.exe,r2.dev
+msedgewebview2.exe,r2.dev
