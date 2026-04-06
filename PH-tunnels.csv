@@ -1,0 +1,84 @@
+tool,indicatorType,value
+ShellHub,domain,*.shellhub.io
+Expose,domain,*.sharedwithexpose.com
+TunnelTo,domain,*.tuns.sh
+TunnelTo,domain,*.ssi.sh
+TunnelTo,domain,*.tunnelto.dev
+PageKite,domain,*.pagekite.net
+PageKite,domain,*.pagekite.me
+Rust LocalTunnels,domain,*.loca.lt
+Rust LocalTunnels,domain,*.localtunnel.me
+Dataplicity,domain,*.dataplicity.com
+VSCode CLI,domain,*.devtunnels.ms
+VSCode CLI,domain,*.tunnels.api.visualstudio.com
+Telebit,domain,*.telebit.io
+Telebit,domain,*.telebit.cloud
+Telebit,domain,*.telebit.fun
+Dev Tunnels,domain,*.data.rel.tunnels.api.visualstudio.com
+Dev Tunnels,domain,*.rel.tunnels.api.visualstudio.com
+Dev Tunnels,domain,*.global.rel.tunnels.api.visualstudio.com
+localhost.run,domain,*.localhost.run
+Pinggy,domain,*.pinggy.io
+Pinggy,domain,*.pinggy.link
+Loophole,domain,loophole.eu.auth0.com
+Loophole,domain,*.loophole.site
+Burrow,domain,*.burrow.io
+Burrow,domain,*.burrow.link
+LocaltoNet,domain,*.localto.net
+LocaltoNet,domain,*.localtonet.com
+Tmate,domain,*.tmate.io
+StaqLab,domain,*.staqlab-tunnel.com
+StaqLab,domain,*.staqlab.com
+JPRQ,domain,*.jprq.io
+Bore,domain,bore.pub:*
+BTunnels,domain,*.btunnel.co.in
+BTunnels,domain,*.btunnel.in
+ngrok,domain,*.ngrok.com
+ngrok,domain,*.ngrok.io
+ngrok,domain,*.ngrok.dev
+ngrok,domain,*.ngrok.app
+ngrok,domain,*.ngrok.pro
+ngrok,domain,*.ngrok.pizza
+ngrok,domain,*.ngrok-agent.com
+ngrok,domain,*.ngrok-free.app
+ngrok,domain,*.ngrok-cname.com
+ngrok,domain,*.equinox.io
+Serveo,domain,*.serveo.net
+PiTunnel,domain,*pitunnel.com
+OpenPort,domain,openport.io
+Beeceptor,domain,*.beeceptor.com
+LocalXpose,domain,*.localxpose.io
+Expose.sh,domain,expose.sh
+Expose.sh,domain,*.expos.es
+Cloudflared,domain,*.trycloudflare.com
+Cloudflared,domain,*.cfargotunnel.com
+Cloudflared,domain,*.cftunnel.com
+jkuri Bore,domain,*.bore.digital
+Qsocket,domain,*.qsocket.io
+Tailscale,domain,tailscale.com
+beeceptor,process,beeceptor-cli
+bore,process,bore 
+btunnels,process,btunnel.exe
+burrow,process,burrow.io
+cloudflared,process,cloudflared.exe
+dataplicity,process,dataplicity.com
+devtunnel,process,devtunnel
+expose.sh,process,expose.sh
+jprq,process,jprq 
+expose.sh,process,expose.sh
+localhost.run,process,localhost.run
+localtonet,process,localtonet.exe
+localtunnel,process,localtunnel
+loophole,process,loophole
+ngrok,process,ngrok
+openport,process,openport
+pagekit,process,pagekit
+pinggy,process,pinggy
+pitunnel,process,pitunnel
+serveo,process,serveo.net
+shellhub,process,shellhub.io
+StaqLab,process,staqlab-tunnel.exe
+telebit,process,telebit.io
+tmate,process,tmate
+tunnelto,process,tunnelto
+vscode,process,code.exe tunnel
