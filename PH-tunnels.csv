@@ -82,3 +82,5 @@ telebit,process,telebit.io
 tmate,process,tmate
 tunnelto,process,tunnelto
 vscode,process,code.exe tunnel
+netbird,domain,netbird.io
+netbird,process,netbird
